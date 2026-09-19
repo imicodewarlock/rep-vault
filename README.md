@@ -1,7 +1,7 @@
 # 🏋️‍♂️ RepVault
 
 > *A personal workout companion built to replace messy notes and generic tracking apps with a clean, offline-first experience.*
-
+![RepVault Banner](assets/images/banner.jpg)
 ---
 
 ## 🌟 Story Behind the Project
